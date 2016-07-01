@@ -26,17 +26,17 @@
      fit-margin-right="0"
      fit-margin-left="0"
      fit-margin-top="0"
-     inkscape:current-layer="layer5"
-     inkscape:window-maximized="1"
-     inkscape:window-y="24"
-     inkscape:window-x="65"
-     inkscape:cy="2022.9534"
-     inkscape:cx="1927.1248"
-     inkscape:zoom="0.125"
+     inkscape:current-layer="layer3"
+     inkscape:window-maximized="0"
+     inkscape:window-y="107"
+     inkscape:window-x="279"
+     inkscape:cy="801.47384"
+     inkscape:cx="3012.152"
+     inkscape:zoom="0.28237598"
      showgrid="false"
      id="namedview4192"
-     inkscape:window-height="1026"
-     inkscape:window-width="1615"
+     inkscape:window-height="843"
+     inkscape:window-width="1249"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -150,23 +150,10 @@
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <path
-       style="opacity:1;fill:#fe5f7b;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 2108.25,883.25006 8.125,-3.3125 18.2286,-15.77481 32.4482,-9.8125 41.4482,-2.85019 27.375,-5.5625 28.625,-5.3125 31.875,-0.8125 31.375,5.6875 -11.375,50.37501 -10.125,37.12501 -16.625,41.62501 -14.125,64.62501 -19.5,25.125 -59.5,37.125 -44,16.625 -43,13.625 z"
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 2194.9688,639.80078 -85.9336,0.97266 5.2539,77.93164 -13.25,17.10547 8.4648,144.39648 -123.4199,28.02344 -0.209,-0.85547 -50.9688,9.46875 -33.2187,15.96875 -35.9687,17.46875 L 1831,966.25 l 147.5,151.5 130.9883,11.7734 0.012,2.2266 43,-13.625 44,-16.625 59.5,-37.125 19.1074,-24.6172 -0.1074,0.9922 219.5,-1.5 66,-81 -238.4941,-87.31445 5.4414,-24.09375 14.0215,1.21875 80.9316,-55.4375 14.1035,-106.94922 -131.5605,-5.12695 -109.9746,-40.7461 z m -85.4356,240.90625 0.1152,1.97266 -0.1093,0.0449 -0.01,-2.01758 z M 2301.377,945.20312 2289.75,979 l -3.6016,11.53516 3.4766,-15.91016 11.752,-29.42188 z"
        id="rect4575"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccccccccccccc" />
-    <path
-       style="opacity:1;fill:#ff002a;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 2321.5,870.75006 239,87.5 -66,81.00004 -219.5,1.5 2.375,-22.125 12.375,-39.62502 16.125,-46.87501 z"
-       id="rect4573"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccccccc" />
-    <path
-       style="opacity:1;fill:#b920ea;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 1831,966.25 34.7188,-15.96875 35.9687,-17.46875 33.2188,-15.96875 50.9687,-9.46875 11.375,46.625 58.875,36.125 53.875,0.625 2,139 -133.5,-12 z"
-       id="rect4577"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccc" />
+       inkscape:connector-curvature="0" />
     <path
        style="fill:#a2e084;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 2357.9395,1001.7598 -12.5118,3.1367 -31.4082,14 -15.332,13.709 -12.3203,4.6836 -10.9317,5.9941 -18.0332,20.7617 -4.6523,1.5645 -1.5176,1.6386 -24.6758,8.5411 -29.8964,27.5234 -52.2657,16.9355 -26.5078,9.6387 -1.5371,-0.5527 -4.6328,1.5019 -27.0488,-12.8125 -13.2871,5.2207 -20.8789,-4.7461 -26.1016,3.3223 -36.4902,-4.6406 -4.795,-0.1055 3.3223,33.2188 14.7109,39.8613 21.1739,25.6055 19.0273,6.6172 99.7891,-41.7129 38.4375,83.0449 72.6054,-1.4238 144.7364,0.7109 c 32.9538,3.6596 68.7475,12.7422 95.3418,24.4316 l 10.4804,-13.2793 42.2344,-31.7949 -5.6934,-43.6582 18.9805,-41.7598 0,-36.539 -18.0312,-35.1172 0.4746,-14.2363 -17.5586,-34.6407 -28.4727,-2.8476 -3.9355,-1.8652 -9.1231,-1 -44.5449,-26.4239 -43.6914,-1.8769 z"
@@ -334,23 +321,17 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cscccccccccccccc" />
     <path
-       style="opacity:1;fill:#ecdd24;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 1986,908.25006 123.5303,-28.0481 0.3536,113.5481 c -37.6253,1.74441 -52.1037,3.09204 -85.8839,-14.5 -32.4913,-18.83549 -36.6497,-34.87624 -38,-71 z"
-       id="rect4579"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="opacity:1;fill:#ff6702;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 2114.2893,718.7059 -5.2539,-77.93339 85.9329,-0.97227 109.9746,40.74702 131.5608,5.12653 -14.1032,106.9499 -80.9312,55.43755 -21.0538,-1.83058 -39.5537,-5.83058 -34.9805,4.58362 -49.877,10.00521 -31.3037,2.66942 -24.8038,8.16942 -18.0537,11.16941 -12.1396,6.62132 -8.6642,-147.80724 z"
-       id="rect4583"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccccccccc" />
-    <path
        style="opacity:1;fill:#e2915a;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 1836.8396,865.97787 48.1044,-77.79799 80.9598,-43.31028 75.3029,-17.14734 60.5603,-0.21599 1.7791,9.26485 14.9041,8.01485 1.7792,41.38985 5.1541,33.01485 -3.8459,41.13984 -4.8458,8.26485 -6.9709,12.63985 -13.7209,4.26485 -10.1279,4.61903 -40.963,7.6342 -41.387,6.88941 -31.9144,6.75812 -35.7605,8.50812 -37.0865,16.63985 -32.6669,16.9934 -32.8438,13.45787 4.7836,-14.9743 0,-37.22429 -0.2164,-26.0993 z"
        id="rect4581"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccccc" />
+    <path
+       style="opacity:1;fill:#8800aa;fill-opacity:1;stroke:none"
+       d="m 395.74896,2709.9151 79.681,94.7319 115.09478,59.3181 -8.85345,126.6043 -129.59229,65.6261 -97.71989,3.6521 -6.52942,-26.4497 40.39384,-18.4816 -5.64407,-60.9781 -30.43371,-62.7488 -38.40182,8.9641 -45.01423,25.0387 -41.47285,-144.9475 71.85123,-64.3811 z"
+       id="rect4634"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc" />
   </g>
   <g
      style="display:inline"
@@ -623,16 +604,21 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#000000;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none">Collective</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="1644.0116"
-       y="1564.1489"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="1822.7411"
+       y="1530.5059"
        id="text5104"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5106"
-         x="1644.0116"
-         y="1564.1489"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#000000;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none">Riyadh</tspan></text>
+         x="1822.7411"
+         y="1530.5059"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none">Unitary Workers'</tspan><tspan
+         sodipodi:role="line"
+         x="1822.7411"
+         y="1580.5059"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan4630">Republic of Krasnaya</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -751,79 +737,28 @@
          sodipodi:role="line">Skyland Territories</tspan></text>
     <text
        sodipodi:linespacing="125%"
-       id="text5152"
-       y="761.75006"
-       x="2244.4062"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="text4642"
+       y="931.87396"
+       x="2126.0083"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="761.75006"
-         x="2244.4062"
-         id="tspan5154"
-         sodipodi:role="line">Soviain-</tspan><tspan
-         id="tspan5156"
-         y="811.75006"
-         x="2244.4062"
-         sodipodi:role="line">Insula</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text5170"
-       y="909.75006"
-       x="2051.9727"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan5172"
-         y="909.75006"
-         x="2051.9727"
-         sodipodi:role="line">City of</tspan><tspan
-         id="tspan5174"
-         y="959.75006"
-         x="2051.9727"
+         style="font-size:80px;fill:#000000;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
+         y="931.87396"
+         x="2126.0083"
+         id="tspan4644"
          sodipodi:role="line">Sovia</tspan></text>
     <text
        sodipodi:linespacing="125%"
-       id="text5176"
-       y="1052.75"
-       x="1989.0371"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="text4656"
+       y="2822.2649"
+       x="448.8067"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="1052.75"
-         x="1989.0371"
-         id="tspan5178"
-         sodipodi:role="line">Sovian-</tspan><tspan
-         id="tspan5180"
-         y="1102.75"
-         x="1989.0371"
-         sodipodi:role="line">Mewton</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text5164"
-       y="997.75006"
-       x="2251.49"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="997.75006"
-         x="2251.49"
-         id="tspan5166"
-         sodipodi:role="line">East Sovian</tspan><tspan
-         id="tspan5168"
-         y="1047.75"
-         x="2251.49"
-         sodipodi:role="line">People's Republic</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text5158"
-       y="916.75006"
-       x="2467.3064"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         y="916.75006"
-         x="2467.3064"
-         id="tspan5160"
-         sodipodi:role="line">Sovian-Valkarian</tspan><tspan
-         id="tspan5162"
-         y="966.75006"
-         x="2467.3064"
-         sodipodi:role="line">Republic</tspan></text>
+         style="font-size:50px;fill:#000000;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none"
+         y="2822.2649"
+         x="448.8067"
+         id="tspan4658"
+         sodipodi:role="line">Finland</tspan></text>
   </g>
   <g
      style="display:inline"
@@ -1085,15 +1020,20 @@
     <text
        sodipodi:linespacing="125%"
        id="text4279"
-       y="1564.1489"
-       x="1644.0116"
+       y="1530.5059"
+       x="1822.7411"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#ffffff"
-         y="1564.1489"
-         x="1644.0116"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;text-anchor:middle;fill:#ffffff"
+         y="1530.5059"
+         x="1822.7411"
          id="tspan4281"
-         sodipodi:role="line">Riyadh</tspan></text>
+         sodipodi:role="line">Unitary Workers'</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;text-anchor:middle;fill:#ffffff"
+         y="1580.5059"
+         x="1822.7411"
+         sodipodi:role="line"
+         id="tspan4632">Republic of Krasnaya</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4515"
@@ -1212,79 +1152,28 @@
          id="tspan4571">Skyland Territories</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2244.4062"
-       y="761.75006"
-       id="text4537"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="2126.0083"
+       y="931.87396"
+       id="text4638"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4539"
-         x="2244.4062"
-         y="761.75006">Soviain-</tspan><tspan
-         sodipodi:role="line"
-         x="2244.4062"
-         y="811.75006"
-         id="tspan4569">Insula</tspan></text>
+         id="tspan4640"
+         x="2126.0083"
+         y="931.87396"
+         style="font-size:80px;fill:#ffffff">Sovia</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2467.3064"
-       y="916.75006"
-       id="text4541"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="448.8067"
+       y="2822.2649"
+       id="text4652"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan4543"
-         x="2467.3064"
-         y="916.75006">Sovian-Valkarian</tspan><tspan
-         sodipodi:role="line"
-         x="2467.3064"
-         y="966.75006"
-         id="tspan4559">Republic</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2251.49"
-       y="997.75006"
-       id="text4545"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4547"
-         x="2251.49"
-         y="997.75006">East Sovian</tspan><tspan
-         sodipodi:role="line"
-         x="2251.49"
-         y="1047.75"
-         id="tspan4557">People's Republic</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="2051.9727"
-       y="909.75006"
-       id="text4549"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2051.9727"
-         y="909.75006"
-         id="tspan4561">City of</tspan><tspan
-         sodipodi:role="line"
-         x="2051.9727"
-         y="959.75006"
-         id="tspan4565">Sovia</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="1989.0371"
-       y="1052.75"
-       id="text4553"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4555"
-         x="1989.0371"
-         y="1052.75">Sovian-</tspan><tspan
-         sodipodi:role="line"
-         x="1989.0371"
-         y="1102.75"
-         id="tspan4567">Mewton</tspan></text>
+         id="tspan4654"
+         x="448.8067"
+         y="2822.2649"
+         style="font-size:50px;fill:#ffffff">Finland</tspan></text>
   </g>
   <g
      sodipodi:insensitive="true"
@@ -1377,6 +1266,6 @@
          y="260.43613"
          x="48.319588"
          id="tspan4622"
-         sodipodi:role="line">June 2016</tspan></text>
+         sodipodi:role="line">July 2016</tspan></text>
   </g>
 </svg>
