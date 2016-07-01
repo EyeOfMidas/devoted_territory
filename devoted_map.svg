@@ -12,7 +12,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:export-ydpi="90"
    inkscape:export-xdpi="90"
-   inkscape:export-filename="/home/jgilman/Downloads/devoted_map.png"
+   inkscape:export-filename="/home/midas/Pictures/devoted_territory/devoted_territory_july.png"
    sodipodi:docname="devoted_map.svg"
    viewBox="0 0 3583.75 3583.75"
    height="3583.75"
@@ -26,12 +26,12 @@
      fit-margin-right="0"
      fit-margin-left="0"
      fit-margin-top="0"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer10"
      inkscape:window-maximized="1"
      inkscape:window-y="24"
      inkscape:window-x="65"
-     inkscape:cy="1963.9818"
-     inkscape:cx="1790.3248"
+     inkscape:cy="1431.2846"
+     inkscape:cx="1601.4316"
      inkscape:zoom="0.28237598"
      showgrid="false"
      id="namedview4192"
@@ -141,8 +141,7 @@
      style="display:inline"
      inkscape:label="Placeholder"
      id="layer6"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true" />
+     inkscape:groupmode="layer" />
   <g
      style="display:inline"
      inkscape:label="Territory"
@@ -290,18 +289,6 @@
        id="rect4553"
        d="M 1556.5015,222.08619 1911.4599,7.5926823 2090.4762,174.03892 l -22.2984,120.53375 -17.914,74.38464 50.4201,15.54129 18.1513,72.48647 -59.6738,53.50474 -80.5537,-24.32034 -90.0445,-24.32033 -38.794,-41.40389 -53.9792,-24.32034 -34.9976,49.7084 -29.3152,66.4441 -20.322,16.98174 -41.2378,0.80557 -61.572,-31.91303 -2.7286,-71.77465 -6.525,-54.6911 1.0677,-43.30207 z"
        style="opacity:1;fill:#5b292c;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none" />
-    <path
-       sodipodi:nodetypes="cccccccc"
-       inkscape:connector-curvature="0"
-       id="rect4691"
-       d="m 2320.2787,3192.4892 c 60.0113,-156.6951 439.427,-36.5398 434.2071,64.0634 l 2.6099,72.3677 -62.112,-3.777 -253.7126,-42.03 -143.6513,-31.2923 -1.0415,-49.4122 z"
-       style="opacity:1;fill:#8c93a5;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none" />
-    <path
-       sodipodi:nodetypes="cccccccccccccccccccccc"
-       inkscape:connector-curvature="0"
-       id="rect4466"
-       d="m 488.52674,145.90121 184.12272,0 16.37174,62.87697 134.05844,100.84043 86.60413,21.11718 111.28033,-37.72618 79.0115,34.40438 -116.50041,55.28429 -131.68569,53.38611 -61.45334,32.50621 -69.04602,42.70889 -177.24187,-71.18148 -72.84238,31.31985 -29.1844,57.89427 -110.80582,25.62533 -78.53689,122.43213 -38.67527,-21.82898 13.10926,-244.627 125.10144,-56.70791 115.61058,-39.62436 11.21109,-83.28232 z"
-       style="display:inline;opacity:1;fill:#404040;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none" />
     <path
        style="opacity:1;fill:#009975;fill-opacity:1;stroke:none;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 660.98294,304.4173 c 0,8.00893 -3.02442,22.50055 -7.77308,28.67927 -5.43236,7.06831 -14.63774,13.36819 -23.12081,17.26537 -7.71426,3.54399 -5.52417,7.11121 -12.97293,9.98685 -7.44876,2.87564 -22.76152,0.48457 -29.15625,0.48457 -6.39473,0 -30.45129,0.5032 -34.79998,-2.10417 -4.34868,-2.60736 -11.65485,-12.44405 -11.93956,-17.90593 -1.60309,-30.75397 3.04226,-28.01131 5.89268,-34.08724 2.50517,-5.34 5.87035,-7.59859 7.09137,-15.51391 1.11285,-7.21405 2.02577,-11.47012 3.32169,-17.7098 1.23081,-5.92623 1.9195,-7.32702 6.11016,-11.2242 4.19066,-3.89719 10.14105,-8.01639 15.99351,-8.39706 9.9924,-0.64996 9.51256,6.23965 13.89436,1.58213 4.487,-4.76934 13.91758,-3.04685 27.16903,-2.66518 6.46856,0.18632 17.12862,6.73551 22.27315,10.27499 5.14453,3.53949 10.60257,7.44418 13.66162,13.10214 3.05906,5.65797 4.35504,20.22323 4.35504,28.23217 z"
@@ -461,18 +448,6 @@
          x="624.03967"
          y="1441.5966"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#000000;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none">Polaris</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="593.70465"
-       y="402.4751"
-       id="text5054"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5056"
-         x="593.70465"
-         y="402.4751"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#000000;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none">Lusatia</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -651,18 +626,6 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:90px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#000000;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none">Ascalon</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="2356.5813"
-       y="3216.4536"
-       id="text5120"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5122"
-         x="2356.5813"
-         y="3216.4536"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#000000;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none">New Watercrest</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="1604.9995"
        y="766.50287"
@@ -698,20 +661,15 @@
     <text
        sodipodi:linespacing="125%"
        id="text5136"
-       y="285.59641"
-       x="603.70648"
+       y="310.38605"
+       x="607.24786"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
-         y="285.59641"
-         x="603.70648"
-         id="tspan5138"
-         sodipodi:role="line">Lusatia/Collective</tspan><tspan
          id="tspan5140"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
-         y="319.97141"
-         x="603.70648"
-         sodipodi:role="line">Joint Claim</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
+         y="310.38605"
+         x="607.24786"
+         sodipodi:role="line">Collective</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text5142"
@@ -719,7 +677,7 @@
        x="2362"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#000000;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#000000;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
          y="1610.75"
          x="2362"
          id="tspan5144"
@@ -893,18 +851,6 @@
          x="624.03967"
          id="tspan4219"
          sodipodi:role="line">Polaris</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text4225"
-       y="402.4751"
-       x="593.70465"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#ffffff"
-         y="402.4751"
-         x="593.70465"
-         id="tspan4227"
-         sodipodi:role="line">Lusatia</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text4229"
@@ -1083,18 +1029,6 @@
          sodipodi:role="line">Ascalon</tspan></text>
     <text
        sodipodi:linespacing="125%"
-       id="text4694"
-       y="3216.4536"
-       x="2356.5813"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#ffffff"
-         y="3216.4536"
-         x="2356.5813"
-         id="tspan4696"
-         sodipodi:role="line">New Watercrest</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
        id="text4284"
        y="766.50287"
        x="1604.9995"
@@ -1130,20 +1064,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="603.70648"
-       y="285.59641"
+       x="607.24786"
+       y="310.38605"
        id="text5135"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         id="tspan5137"
-         x="603.70648"
-         y="285.59641"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;text-anchor:middle;fill:#ffffff">Lusatia/Collective</tspan><tspan
-         sodipodi:role="line"
-         x="603.70648"
-         y="319.97141"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.5px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;text-anchor:middle;fill:#ffffff"
-         id="tspan5139">Joint Claim</tspan></text>
+         x="607.24786"
+         y="310.38605"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan5139">Collective</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1155,7 +1084,7 @@
          id="tspan4450"
          x="2362"
          y="1610.75"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';fill:#ffffff">Arcada</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#ffffff">Arcada</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
