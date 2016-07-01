@@ -27,16 +27,16 @@
      fit-margin-left="0"
      fit-margin-top="0"
      inkscape:current-layer="layer3"
-     inkscape:window-maximized="0"
-     inkscape:window-y="107"
-     inkscape:window-x="279"
-     inkscape:cy="801.47384"
-     inkscape:cx="3012.152"
+     inkscape:window-maximized="1"
+     inkscape:window-y="24"
+     inkscape:window-x="65"
+     inkscape:cy="1963.9818"
+     inkscape:cx="1790.3248"
      inkscape:zoom="0.28237598"
      showgrid="false"
      id="namedview4192"
-     inkscape:window-height="843"
-     inkscape:window-width="1249"
+     inkscape:window-height="1026"
+     inkscape:window-width="1615"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -332,6 +332,12 @@
        id="rect4634"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccc" />
+    <path
+       style="opacity:1;fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3083.8955,2813.8225 71.8521,10.9032 29.1105,150.432 185.6188,30.2336 5.3213,142.9195 -207.53,84.0724 -221.842,-70.0572 z"
+       id="rect4584"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
   </g>
   <g
      style="display:inline"
@@ -742,7 +748,7 @@
        x="2126.0083"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-size:80px;fill:#000000;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#000000;stroke:#000000;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
          y="931.87396"
          x="2126.0083"
          id="tspan4644"
@@ -754,11 +760,28 @@
        x="448.8067"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-size:50px;fill:#000000;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#000000;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none"
          y="2822.2649"
          x="448.8067"
          id="tspan4658"
          sodipodi:role="line">Finland</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4593"
+       y="3049.1179"
+       x="3175.4722"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none"
+         y="3049.1179"
+         x="3175.4722"
+         id="tspan4595"
+         sodipodi:role="line">Devoted Empire</tspan><tspan
+         id="tspan4597"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:8;stroke-miterlimit:4;stroke-dasharray:none"
+         y="3099.1179"
+         x="3175.4722"
+         sodipodi:role="line">of Yoahtl</tspan></text>
   </g>
   <g
      style="display:inline"
@@ -1161,7 +1184,7 @@
          id="tspan4640"
          x="2126.0083"
          y="931.87396"
-         style="font-size:80px;fill:#ffffff">Sovia</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:80px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#ffffff">Sovia</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1173,7 +1196,24 @@
          id="tspan4654"
          x="448.8067"
          y="2822.2649"
-         style="font-size:50px;fill:#ffffff">Finland</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';fill:#ffffff">Finland</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="3175.4722"
+       y="3049.1179"
+       id="text4587"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4589"
+         x="3175.4722"
+         y="3049.1179"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;text-anchor:middle;fill:#ffffff">Devoted Empire</tspan><tspan
+         sodipodi:role="line"
+         x="3175.4722"
+         y="3099.1179"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab';text-align:center;text-anchor:middle;fill:#ffffff"
+         id="tspan4591">of Yoahtl</tspan></text>
   </g>
   <g
      sodipodi:insensitive="true"
